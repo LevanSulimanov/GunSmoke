@@ -2,5 +2,11 @@
 	"FileVersion": 3,
 	"EngineAssociation": "{C735CC7A-45F0-980A-1895-BDA2F5982022}",
 	"Category": "",
-	"Description": ""
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "ShaderBits-GDC-Pack",
+			"Enabled": true
+		}
+	]
 }
