@@ -44,5 +44,14 @@ public:
 		
 	UFUNCTION(BlueprintCallable)
 	void calculateDivergence(UTextureRenderTarget2D *sourceTexture, UTextureRenderTarget2D *destinationTexture, UMaterialInstanceDynamic *divergenceMID);
-
+	
+	UFUNCTION(BlueprintCallable, meta = (Keywords = "setSimParamsGFG"), Category = "Rendering|Material")
+	void setSimParams(UMaterialInstanceDynamic *advectMID, UMaterialInstanceDynamic *divMID,
+		UMaterialInstanceDynamic *pressIterMID, UMaterialInstanceDynamic *gradSubMID,
+		UMaterialInstanceDynamic *colorPrevMID, UMaterialInstanceDynamic *rayMarchVelMID,
+		UMaterialInstanceDynamic *volPrevMID, UMaterialInstanceDynamic *velSeedMID,
+		UMaterialInstanceDynamic *colSeedMID,
+		UTextureRenderTarget2D *obsTex,
+		float twoDRes, float constCurlTiling, float constCurlStrength,
+		FVector2D rtSize, FVector2D xyFrames);
 };

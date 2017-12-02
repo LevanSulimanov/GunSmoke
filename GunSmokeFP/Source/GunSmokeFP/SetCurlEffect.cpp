@@ -81,6 +81,7 @@ Velocity_Color_SeedMID->SetScalarParameterValue(HeatInset, HeatInsetValue);
 */
 
 
+
 void USetCurlEffect::SetCurlEffectFunction(UMaterialInstanceDynamic *VelocitySeedMID, FName CurlTiling,
 																					  FName CurlStrength,
 																					  float CurlTilingValue,
@@ -100,6 +101,87 @@ void USetCurlEffect::SetCurlEffectFunction(UMaterialInstanceDynamic *VelocitySee
 	}
 
 }
+
+void USetCurlEffect::setSimParams(UMaterialInstanceDynamic *advectMID, UMaterialInstanceDynamic *divMID,
+										UMaterialInstanceDynamic *pressIterMID, UMaterialInstanceDynamic *gradSubMID,
+										UMaterialInstanceDynamic *colorPrevMID, UMaterialInstanceDynamic *rayMarchVelMID,
+										UMaterialInstanceDynamic *volPrevMID, UMaterialInstanceDynamic *velSeedMID,
+										UMaterialInstanceDynamic *colSeedMID,
+										UTextureRenderTarget2D *obsTex,
+										float twoDRes, float constCurlTiling, float constCurlStrength,
+										FVector2D rtSize, FVector2D xyFrames) {
+	//Set up Masks for MIDS
+	FName pName = FName("Mask");  //parameter Name
+	advectMID->SetTextureParameterValue(pName, obsTex);
+	divMID->SetTextureParameterValue(pName, obsTex);
+	pressIterMID->SetTextureParameterValue(pName, obsTex);
+	gradSubMID->SetTextureParameterValue(pName, obsTex);
+	colorPrevMID->SetTextureParameterValue(pName, obsTex);
+	
+	//Set up resolution for MIDS
+	pName = FName("Resolution");
+	advectMID->SetScalarParameterValue(pName, twoDRes);
+	divMID->SetScalarParameterValue(pName, twoDRes);
+	pressIterMID->SetScalarParameterValue(pName, twoDRes);
+	gradSubMID->SetScalarParameterValue(pName, twoDRes);
+
+	FLinearColor linCol;
+	linCol.R = rtSize.X;
+	linCol.G = rtSize.Y;
+	linCol.B = 0.0;
+	linCol.A = 1.0;
+
+	advectMID->SetVectorParameterValue(pName, linCol);
+	divMID->SetVectorParameterValue(pName, linCol);
+	pressIterMID->SetVectorParameterValue(pName, linCol);
+	gradSubMID->SetVectorParameterValue(pName, linCol);
+	rayMarchVelMID->SetVectorParameterValue(pName, linCol);
+
+	//set up frame resolution
+	pName = FName("FrameResolution");
+	
+	linCol.R = rtSize.X / xyFrames.X;
+	linCol.G = rtSize.Y / xyFrames.Y;
+	linCol.B = xyFrames.X * xyFrames.Y;
+
+	advectMID->SetVectorParameterValue(pName, linCol);
+	divMID->SetVectorParameterValue(pName, linCol);
+	pressIterMID->SetVectorParameterValue(pName, linCol);
+	gradSubMID->SetVectorParameterValue(pName, linCol);
+	rayMarchVelMID->SetVectorParameterValue(pName, linCol);
+
+	//set up XYFrames
+	pName = FName("XYFrames");
+	linCol.R = xyFrames.X;
+	linCol.G = xyFrames.Y;
+	linCol.B = 0.0;
+
+	advectMID->SetVectorParameterValue(pName, linCol);
+	divMID->SetVectorParameterValue(pName, linCol);
+	pressIterMID->SetVectorParameterValue(pName, linCol);
+	gradSubMID->SetVectorParameterValue(pName, linCol);
+	volPrevMID->SetVectorParameterValue(pName, linCol);
+	velSeedMID->SetVectorParameterValue(pName, linCol);
+	colSeedMID->SetVectorParameterValue(pName, linCol);
+	rayMarchVelMID->SetVectorParameterValue(pName, linCol);
+
+	//set Temp
+	pName = FName("Temp");
+	advectMID->SetScalarParameterValue(pName, constCurlTiling);
+
+	//set Force
+	pName = FName("Force");
+	advectMID->SetScalarParameterValue(pName, constCurlStrength);
+
+	//set Constant Curl
+	pName = FName("Constant Curl");
+	advectMID->SetScalarParameterValue(pName, constCurlStrength);
+
+	//set Constant Curl Tiling
+	pName = FName("Constant Curl Tiling");
+	advectMID->SetScalarParameterValue(pName, constCurlStrength);
+}
+
 
 void USetCurlEffect::calculateDivergence(UTextureRenderTarget2D *sourceTexture, 
 										UTextureRenderTarget2D *destinationTexture, 

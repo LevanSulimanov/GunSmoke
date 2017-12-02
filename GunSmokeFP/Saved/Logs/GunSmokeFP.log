@@ -998,3 +998,378 @@ LogInit: Object subsystem initialized
 [2017.12.01-22.23.00:348][976]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel.GunSmoke' with GeneratedClass '/Game/Maps/GunSmoke.GunSmoke_C' with ClassGeneratedBy '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel.GunSmoke'
 [2017.12.01-22.23.01:526][987]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel.GunSmoke' with GeneratedClass '/Game/Maps/GunSmoke.GunSmoke_C' with ClassGeneratedBy '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel.GunSmoke'
 [2017.12.01-22.23.01:782][987]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel.GunSmoke' with GeneratedClass '/Game/Maps/GunSmoke.GunSmoke_C' with ClassGeneratedBy '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel.GunSmoke'
+[2017.12.01-23.06.35:441][438]LogDirectoryWatcher: Warning: Failed to begin reading directory changes for ../../../../../../GunSmoke-curlingEffect_LevanS/GunSmoke-curlingEffect_LevanS/GunSmokeFP/Plugins/. Error: The system cannot find the file specified. (0x00000002)
+[2017.12.01-23.09.26:309][493]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2017.12.01-23.21.58:164][452]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.12.01-23.21.58:890][492]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.01-23.21.58:901][492]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel.GunSmoke' with GeneratedClass '/Game/Maps/GunSmoke.GunSmoke_C' with ClassGeneratedBy '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel.GunSmoke'
+[2017.12.01-23.21.58:902][492]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.01-23.21.58:902][492]PIE: New page: PIE session: GunSmoke (Dec 1, 2017, 1:21:58 PM)
+[2017.12.01-23.21.58:903][492]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GunSmoke
+[2017.12.01-23.21.58:922][492]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019822s)
+[2017.12.01-23.21.58:923][492]LogAIModule: Creating AISystem for world GunSmoke
+[2017.12.01-23.21.58:924][492]LogPlayLevel: PIE: World Init took: (0.001891s)
+[2017.12.01-23.21.58:924][492]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GunSmoke.GunSmoke to /Game/Maps/UEDPIE_0_GunSmoke.GunSmoke (0.022131s)
+[2017.12.01-23.21.58:976][492]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.01-23.21.59:005][492]LogInit: FAudioDevice initialized.
+[2017.12.01-23.21.59:035][492]LogLoad: Game class is 'GameModeBase'
+[2017.12.01-23.21.59:037][492]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GunSmoke.GunSmoke up for play (max tick rate 60) at 2017.12.01-18.21.59
+[2017.12.01-23.21.59:038][492]LogWorld: Bringing up level for play took: 0.001106
+[2017.12.01-23.21.59:041][492]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_GunSmoke -0.181
+[2017.12.01-23.21.59:042][492]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel.GunSmoke' with GeneratedClass '/Game/Maps/GunSmoke.GunSmoke_C' with ClassGeneratedBy '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel.GunSmoke'
+[2017.12.01-23.22.04:768][546]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel.GunSmoke' with GeneratedClass '/Game/Maps/GunSmoke.GunSmoke_C' with ClassGeneratedBy '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel.GunSmoke'
+[2017.12.01-23.22.04:900][546]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel.GunSmoke' with GeneratedClass '/Game/Maps/GunSmoke.GunSmoke_C' with ClassGeneratedBy '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel.GunSmoke'
+[2017.12.01-23.24.36:122][546]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.12.01-23.24.39:929][773]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.01-23.24.39:940][773]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel.GunSmoke' with GeneratedClass '/Game/Maps/GunSmoke.GunSmoke_C' with ClassGeneratedBy '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel.GunSmoke'
+[2017.12.01-23.24.39:940][773]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.01-23.24.39:940][773]PIE: New page: PIE session: GunSmoke (Dec 1, 2017, 1:24:39 PM)
+[2017.12.01-23.24.39:940][773]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GunSmoke
+[2017.12.01-23.24.39:946][773]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006206s)
+[2017.12.01-23.24.39:947][773]LogAIModule: Creating AISystem for world GunSmoke
+[2017.12.01-23.24.39:947][773]LogPlayLevel: PIE: World Init took: (0.001278s)
+[2017.12.01-23.24.39:948][773]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GunSmoke.GunSmoke to /Game/Maps/UEDPIE_0_GunSmoke.GunSmoke (0.007713s)
+[2017.12.01-23.24.39:967][773]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.01-23.24.39:994][773]LogInit: FAudioDevice initialized.
+[2017.12.01-23.24.40:021][773]LogLoad: Game class is 'GameModeBase'
+[2017.12.01-23.24.40:023][773]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GunSmoke.GunSmoke up for play (max tick rate 60) at 2017.12.01-18.24.40
+[2017.12.01-23.24.40:023][773]LogWorld: Bringing up level for play took: 0.000915
+[2017.12.01-23.24.40:026][773]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_GunSmoke 0.804
+[2017.12.01-23.24.40:027][773]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel.GunSmoke' with GeneratedClass '/Game/Maps/GunSmoke.GunSmoke_C' with ClassGeneratedBy '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel.GunSmoke'
+[2017.12.01-23.24.48:687][860]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel.GunSmoke' with GeneratedClass '/Game/Maps/GunSmoke.GunSmoke_C' with ClassGeneratedBy '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel.GunSmoke'
+[2017.12.01-23.24.48:822][860]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel.GunSmoke' with GeneratedClass '/Game/Maps/GunSmoke.GunSmoke_C' with ClassGeneratedBy '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel.GunSmoke'
+[2017.12.01-23.25.01:194][543]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.12.01-23.25.02:314][608]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.01-23.25.02:325][608]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel.GunSmoke' with GeneratedClass '/Game/Maps/GunSmoke.GunSmoke_C' with ClassGeneratedBy '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel.GunSmoke'
+[2017.12.01-23.25.02:325][608]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.01-23.25.02:325][608]PIE: New page: PIE session: GunSmoke (Dec 1, 2017, 1:25:02 PM)
+[2017.12.01-23.25.02:325][608]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GunSmoke
+[2017.12.01-23.25.02:334][608]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008667s)
+[2017.12.01-23.25.02:335][608]LogAIModule: Creating AISystem for world GunSmoke
+[2017.12.01-23.25.02:335][608]LogPlayLevel: PIE: World Init took: (0.001251s)
+[2017.12.01-23.25.02:336][608]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GunSmoke.GunSmoke to /Game/Maps/UEDPIE_0_GunSmoke.GunSmoke (0.010193s)
+[2017.12.01-23.25.02:353][608]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.01-23.25.02:380][608]LogInit: FAudioDevice initialized.
+[2017.12.01-23.25.02:407][608]LogLoad: Game class is 'GameModeBase'
+[2017.12.01-23.25.02:409][608]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GunSmoke.GunSmoke up for play (max tick rate 60) at 2017.12.01-18.25.02
+[2017.12.01-23.25.02:409][608]LogWorld: Bringing up level for play took: 0.000764
+[2017.12.01-23.25.02:412][608]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_GunSmoke -0.81
+[2017.12.01-23.25.02:412][608]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel.GunSmoke' with GeneratedClass '/Game/Maps/GunSmoke.GunSmoke_C' with ClassGeneratedBy '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel.GunSmoke'
+[2017.12.01-23.25.07:424][657]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel.GunSmoke' with GeneratedClass '/Game/Maps/GunSmoke.GunSmoke_C' with ClassGeneratedBy '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel.GunSmoke'
+[2017.12.01-23.25.07:557][657]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel.GunSmoke' with GeneratedClass '/Game/Maps/GunSmoke.GunSmoke_C' with ClassGeneratedBy '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel.GunSmoke'
+[2017.12.01-23.25.12:033][918]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.12.01-23.25.12:976][973]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.01-23.25.12:986][973]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel.GunSmoke' with GeneratedClass '/Game/Maps/GunSmoke.GunSmoke_C' with ClassGeneratedBy '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel.GunSmoke'
+[2017.12.01-23.25.12:987][973]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.01-23.25.12:987][973]PIE: New page: PIE session: GunSmoke (Dec 1, 2017, 1:25:12 PM)
+[2017.12.01-23.25.12:987][973]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GunSmoke
+[2017.12.01-23.25.12:993][973]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006156s)
+[2017.12.01-23.25.12:994][973]LogAIModule: Creating AISystem for world GunSmoke
+[2017.12.01-23.25.12:994][973]LogPlayLevel: PIE: World Init took: (0.001296s)
+[2017.12.01-23.25.12:995][973]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GunSmoke.GunSmoke to /Game/Maps/UEDPIE_0_GunSmoke.GunSmoke (0.007778s)
+[2017.12.01-23.25.13:011][973]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.01-23.25.13:037][973]LogInit: FAudioDevice initialized.
+[2017.12.01-23.25.13:069][973]LogLoad: Game class is 'GameModeBase'
+[2017.12.01-23.25.13:071][973]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GunSmoke.GunSmoke up for play (max tick rate 60) at 2017.12.01-18.25.13
+[2017.12.01-23.25.13:071][973]LogWorld: Bringing up level for play took: 0.000803
+[2017.12.01-23.25.13:073][973]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_GunSmoke -0.149
+[2017.12.01-23.25.13:074][973]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel.GunSmoke' with GeneratedClass '/Game/Maps/GunSmoke.GunSmoke_C' with ClassGeneratedBy '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel.GunSmoke'
+[2017.12.01-23.25.16:878][ 10]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel.GunSmoke' with GeneratedClass '/Game/Maps/GunSmoke.GunSmoke_C' with ClassGeneratedBy '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel.GunSmoke'
+[2017.12.01-23.25.17:013][ 10]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel.GunSmoke' with GeneratedClass '/Game/Maps/GunSmoke.GunSmoke_C' with ClassGeneratedBy '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel.GunSmoke'
+[2017.12.01-23.25.28:384][669]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.12.01-23.25.29:331][724]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.01-23.25.29:341][724]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel.GunSmoke' with GeneratedClass '/Game/Maps/GunSmoke.GunSmoke_C' with ClassGeneratedBy '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel.GunSmoke'
+[2017.12.01-23.25.29:342][724]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.01-23.25.29:343][724]PIE: New page: PIE session: GunSmoke (Dec 1, 2017, 1:25:29 PM)
+[2017.12.01-23.25.29:343][724]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GunSmoke
+[2017.12.01-23.25.29:350][724]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006585s)
+[2017.12.01-23.25.29:351][724]LogAIModule: Creating AISystem for world GunSmoke
+[2017.12.01-23.25.29:351][724]LogPlayLevel: PIE: World Init took: (0.000789s)
+[2017.12.01-23.25.29:351][724]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GunSmoke.GunSmoke to /Game/Maps/UEDPIE_0_GunSmoke.GunSmoke (0.007731s)
+[2017.12.01-23.25.29:368][724]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.01-23.25.29:395][724]LogInit: FAudioDevice initialized.
+[2017.12.01-23.25.29:424][724]LogLoad: Game class is 'GameModeBase'
+[2017.12.01-23.25.29:425][724]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GunSmoke.GunSmoke up for play (max tick rate 60) at 2017.12.01-18.25.29
+[2017.12.01-23.25.29:426][724]LogWorld: Bringing up level for play took: 0.000780
+[2017.12.01-23.25.29:428][724]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_GunSmoke 0.206
+[2017.12.01-23.25.29:429][724]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel.GunSmoke' with GeneratedClass '/Game/Maps/GunSmoke.GunSmoke_C' with ClassGeneratedBy '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel.GunSmoke'
+[2017.12.01-23.25.31:769][746]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel.GunSmoke' with GeneratedClass '/Game/Maps/GunSmoke.GunSmoke_C' with ClassGeneratedBy '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel.GunSmoke'
+[2017.12.01-23.25.31:985][746]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel.GunSmoke' with GeneratedClass '/Game/Maps/GunSmoke.GunSmoke_C' with ClassGeneratedBy '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel.GunSmoke'
+[2017.12.01-23.25.32:463][766]Cmd: TRANSACTION UNDO
+[2017.12.01-23.25.32:463][766]LogEditorTransaction: Undo Clicking on Actors
+[2017.12.01-23.25.33:255][813]Cmd: TRANSACTION UNDO
+[2017.12.01-23.25.33:255][813]LogEditorTransaction: Undo Clicking on Actors
+[2017.12.01-23.25.33:922][853]Cmd: TRANSACTION UNDO
+[2017.12.01-23.25.33:922][853]LogEditorTransaction: Undo Clicking on Actors
+[2017.12.01-23.25.35:556][951]Cmd: TRANSACTION REDO
+[2017.12.01-23.25.35:556][951]LogEditorTransaction: Redo Clicking on Actors
+[2017.12.01-23.25.35:873][970]Cmd: TRANSACTION REDO
+[2017.12.01-23.25.35:873][970]LogEditorTransaction: Redo Clicking on Actors
+[2017.12.01-23.25.36:123][985]Cmd: TRANSACTION REDO
+[2017.12.01-23.25.36:123][985]LogEditorTransaction: Redo Clicking on Actors
+[2017.12.01-23.25.40:859][268]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.12.01-23.25.41:669][315]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.01-23.25.41:678][315]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel.GunSmoke' with GeneratedClass '/Game/Maps/GunSmoke.GunSmoke_C' with ClassGeneratedBy '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel.GunSmoke'
+[2017.12.01-23.25.41:678][315]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.01-23.25.41:678][315]PIE: New page: PIE session: GunSmoke (Dec 1, 2017, 1:25:41 PM)
+[2017.12.01-23.25.41:678][315]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GunSmoke
+[2017.12.01-23.25.41:684][315]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005866s)
+[2017.12.01-23.25.41:685][315]LogAIModule: Creating AISystem for world GunSmoke
+[2017.12.01-23.25.41:685][315]LogPlayLevel: PIE: World Init took: (0.000817s)
+[2017.12.01-23.25.41:685][315]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GunSmoke.GunSmoke to /Game/Maps/UEDPIE_0_GunSmoke.GunSmoke (0.006932s)
+[2017.12.01-23.25.41:702][315]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.01-23.25.41:728][315]LogInit: FAudioDevice initialized.
+[2017.12.01-23.25.41:758][315]LogLoad: Game class is 'GameModeBase'
+[2017.12.01-23.25.41:759][315]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GunSmoke.GunSmoke up for play (max tick rate 60) at 2017.12.01-18.25.41
+[2017.12.01-23.25.41:759][315]LogWorld: Bringing up level for play took: 0.000732
+[2017.12.01-23.25.41:762][315]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_GunSmoke 0.54
+[2017.12.01-23.25.41:762][315]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel.GunSmoke' with GeneratedClass '/Game/Maps/GunSmoke.GunSmoke_C' with ClassGeneratedBy '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel.GunSmoke'
+[2017.12.01-23.25.44:922][345]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel.GunSmoke' with GeneratedClass '/Game/Maps/GunSmoke.GunSmoke_C' with ClassGeneratedBy '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel.GunSmoke'
+[2017.12.01-23.25.45:048][345]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel.GunSmoke' with GeneratedClass '/Game/Maps/GunSmoke.GunSmoke_C' with ClassGeneratedBy '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel.GunSmoke'
+[2017.12.01-23.25.46:251][406]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.12.01-23.26.02:781][664]LogEditorActor: Deleted 0 Actors (12.095 secs)
+[2017.12.01-23.26.04:610][769]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.12.01-23.26.05:992][850]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.01-23.26.06:002][850]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel.GunSmoke' with GeneratedClass '/Game/Maps/GunSmoke.GunSmoke_C' with ClassGeneratedBy '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel.GunSmoke'
+[2017.12.01-23.26.06:002][850]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.01-23.26.06:003][850]PIE: New page: PIE session: GunSmoke (Dec 1, 2017, 1:26:06 PM)
+[2017.12.01-23.26.06:003][850]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GunSmoke
+[2017.12.01-23.26.06:010][850]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006724s)
+[2017.12.01-23.26.06:011][850]LogAIModule: Creating AISystem for world GunSmoke
+[2017.12.01-23.26.06:011][850]LogPlayLevel: PIE: World Init took: (0.000790s)
+[2017.12.01-23.26.06:011][850]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GunSmoke.GunSmoke to /Game/Maps/UEDPIE_0_GunSmoke.GunSmoke (0.007855s)
+[2017.12.01-23.26.06:027][850]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.01-23.26.06:054][850]LogInit: FAudioDevice initialized.
+[2017.12.01-23.26.06:083][850]LogLoad: Game class is 'GameModeBase'
+[2017.12.01-23.26.06:085][850]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GunSmoke.GunSmoke up for play (max tick rate 60) at 2017.12.01-18.26.06
+[2017.12.01-23.26.06:085][850]LogWorld: Bringing up level for play took: 0.000842
+[2017.12.01-23.26.06:087][850]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_GunSmoke 0.866
+[2017.12.01-23.26.06:088][850]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel.GunSmoke' with GeneratedClass '/Game/Maps/GunSmoke.GunSmoke_C' with ClassGeneratedBy '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel.GunSmoke'
+[2017.12.01-23.26.16:078][947]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel.GunSmoke' with GeneratedClass '/Game/Maps/GunSmoke.GunSmoke_C' with ClassGeneratedBy '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel.GunSmoke'
+[2017.12.01-23.26.16:215][947]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel.GunSmoke' with GeneratedClass '/Game/Maps/GunSmoke.GunSmoke_C' with ClassGeneratedBy '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel.GunSmoke'
+[2017.12.02-00.35.41:665][514]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2017.12.02-00.35.41:671][514]Candidate modules for hot reload:
+[2017.12.02-00.35.41:671][514]  GunSmokeFP
+[2017.12.02-00.35.41:671][514]Launching UnrealBuildTool... [D:/UU/New folder/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe GunSmokeFP -ModuleWithSuffix GunSmokeFP 3926 Win64 Development -editorrecompile -canskiplink "D:/GunSmoke-curlingEffect_LevanS/GunSmoke-curlingEffect_LevanS/GunSmokeFP/GunSmokeFP.uproject" ]
+[2017.12.02-00.35.41:691][514]Warning: Starting HotReload took  0.1s.
+[2017.12.02-00.36.33:911][647]CompilerResultsLog: New page: Compilation - Dec 1, 2017, 2:36:33 PM
+[2017.12.02-00.36.33:912][647]CompilerResultsLog: Compiling game modules for hot reload
+[2017.12.02-00.36.33:912][647]CompilerResultsLog: Performing 3 actions (4 in parallel)
+[2017.12.02-00.36.33:912][647]CompilerResultsLog: SetCurlEffect.cpp
+[2017.12.02-00.36.33:912][647]CompilerResultsLog: Error: D:\GunSmoke-curlingEffect_LevanS\GunSmoke-curlingEffect_LevanS\GunSmokeFP\Source\GunSmokeFP\SetCurlEffect.cpp(105) : error C2039: 'setUpSimulationMIDS': is not a member of 'USetCurlEffect'
+[2017.12.02-00.36.33:912][647]CompilerResultsLog: Error: d:\gunsmoke-curlingeffect_levans\gunsmoke-curlingeffect_levans\gunsmokefp\source\gunsmokefp\SetCurlEffect.h(13) : note: see declaration of 'USetCurlEffect'
+[2017.12.02-00.36.33:912][647]CompilerResultsLog: ERROR: UBT ERROR: Failed to produce item: D:\GunSmoke-curlingEffect_LevanS\GunSmoke-curlingEffect_LevanS\GunSmokeFP\Binaries\Win64\UE4Editor-GunSmokeFP-3926.dll
+[2017.12.02-00.36.33:912][647]CompilerResultsLog: Total build time: 51.41 seconds (Local executor: 0.00 seconds)
+[2017.12.02-00.36.33:912][647]LogMainFrame: MainFrame: Module compiling took 52.247 seconds
+[2017.12.02-00.36.33:912][647]Warning: HotReload failed, recompile failed
+[2017.12.02-00.38.57:440][962]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2017.12.02-00.38.57:445][962]Candidate modules for hot reload:
+[2017.12.02-00.38.57:445][962]  GunSmokeFP
+[2017.12.02-00.38.57:445][962]Launching UnrealBuildTool... [D:/UU/New folder/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe GunSmokeFP -ModuleWithSuffix GunSmokeFP 7656 Win64 Development -editorrecompile -canskiplink "D:/GunSmoke-curlingEffect_LevanS/GunSmoke-curlingEffect_LevanS/GunSmokeFP/GunSmokeFP.uproject" ]
+[2017.12.02-00.38.57:448][962]Warning: Starting HotReload took  0.0s.
+[2017.12.02-00.39.54:581][877]CompilerResultsLog: New page: Compilation - Dec 1, 2017, 2:39:54 PM
+[2017.12.02-00.39.54:582][877]CompilerResultsLog: Compiling game modules for hot reload
+[2017.12.02-00.39.54:582][877]CompilerResultsLog: Parsing headers for GunSmokeFPEditor
+[2017.12.02-00.39.54:582][877]CompilerResultsLog:   Running UnrealHeaderTool "D:\GunSmoke-curlingEffect_LevanS\GunSmoke-curlingEffect_LevanS\GunSmokeFP\GunSmokeFP.uproject" "D:\GunSmoke-curlingEffect_LevanS\GunSmoke-curlingEffect_LevanS\GunSmokeFP\Intermediate\Build\Win64\GunSmokeFPEditor\Development\GunSmokeFPEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2017.12.02-00.39.54:582][877]CompilerResultsLog: Reflection code generated for GunSmokeFPEditor in 13.0963285 seconds
+[2017.12.02-00.39.54:582][877]CompilerResultsLog: Performing 4 actions (4 in parallel)
+[2017.12.02-00.39.54:582][877]CompilerResultsLog: SetCurlEffect.gen.cpp
+[2017.12.02-00.39.54:582][877]CompilerResultsLog: SetCurlEffect.cpp
+[2017.12.02-00.39.54:582][877]CompilerResultsLog: [3/4] Link UE4Editor-GunSmokeFP-7656.dll
+[2017.12.02-00.39.54:582][877]CompilerResultsLog: [4/4] Link UE4Editor-GunSmokeFP-7656.lib
+[2017.12.02-00.39.54:582][877]CompilerResultsLog:    Creating library D:\GunSmoke-curlingEffect_LevanS\GunSmoke-curlingEffect_LevanS\GunSmokeFP\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-GunSmokeFP-7656.lib and object D:\GunSmoke-curlingEffect_LevanS\GunSmoke-curlingEffect_LevanS\GunSmokeFP\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-GunSmokeFP-7656.exp
+[2017.12.02-00.39.54:582][877]CompilerResultsLog:    Creating library D:\GunSmoke-curlingEffect_LevanS\GunSmoke-curlingEffect_LevanS\GunSmokeFP\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-GunSmokeFP-7656.suppressed.lib and object D:\GunSmoke-curlingEffect_LevanS\GunSmoke-curlingEffect_LevanS\GunSmokeFP\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-GunSmokeFP-7656.suppressed.exp
+[2017.12.02-00.39.54:583][877]CompilerResultsLog: Total build time: 56.69 seconds (Local executor: 42.78 seconds)
+[2017.12.02-00.39.54:583][877]LogMainFrame: MainFrame: Module compiling took 57.142 seconds
+[2017.12.02-00.39.56:941][877]LogContentBrowser: Native class hierarchy updated for 'GunSmokeFP' in 0.0021 seconds. Added 1 classes and 2 folders.
+[2017.12.02-00.39.56:944][877]Display: HotReload successful (3 functions remapped  0 scriptstructs remapped)
+[2017.12.02-00.39.57:567][877]LogContentBrowser: Native class hierarchy populated in 0.0118 seconds. Added 2366 classes and 525 folders.
+[2017.12.02-00.39.57:567][877]Display: HotReload took 60.1s.
+[2017.12.02-00.40.30:652][692]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2017.12.02-00.40.30:655][692]Candidate modules for hot reload:
+[2017.12.02-00.40.30:655][692]  GunSmokeFP
+[2017.12.02-00.40.30:655][692]Launching UnrealBuildTool... [D:/UU/New folder/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe GunSmokeFP -ModuleWithSuffix GunSmokeFP 3710 Win64 Development -editorrecompile -canskiplink "D:/GunSmoke-curlingEffect_LevanS/GunSmoke-curlingEffect_LevanS/GunSmokeFP/GunSmokeFP.uproject" ]
+[2017.12.02-00.40.30:658][692]Warning: Starting HotReload took  0.0s.
+[2017.12.02-00.40.31:600][749]CompilerResultsLog: New page: Compilation - Dec 1, 2017, 2:40:31 PM
+[2017.12.02-00.40.31:600][749]CompilerResultsLog: Compiling game modules for hot reload
+[2017.12.02-00.40.31:600][749]CompilerResultsLog: Target is up to date
+[2017.12.02-00.40.31:600][749]CompilerResultsLog: Total build time: 0.56 seconds (NoActionsToExecute executor: 0.00 seconds)
+[2017.12.02-00.40.31:600][749]LogMainFrame: MainFrame: Module compiling took 0.948 seconds
+[2017.12.02-00.40.31:924][749]LogContentBrowser: Native class hierarchy populated in 0.0082 seconds. Added 2366 classes and 525 folders.
+[2017.12.02-00.40.31:924][749]Display: HotReload took  1.3s.
+[2017.12.02-00.43.17:642][181]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2017.12.02-00.43.17:645][181]Candidate modules for hot reload:
+[2017.12.02-00.43.17:645][181]  GunSmokeFP
+[2017.12.02-00.43.17:645][181]Launching UnrealBuildTool... [D:/UU/New folder/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe GunSmokeFP -ModuleWithSuffix GunSmokeFP 4139 Win64 Development -editorrecompile -canskiplink "D:/GunSmoke-curlingEffect_LevanS/GunSmoke-curlingEffect_LevanS/GunSmokeFP/GunSmokeFP.uproject" ]
+[2017.12.02-00.43.17:648][181]Warning: Starting HotReload took  0.0s.
+[2017.12.02-00.43.31:923][ 38]CompilerResultsLog: New page: Compilation - Dec 1, 2017, 2:43:31 PM
+[2017.12.02-00.43.31:923][ 38]CompilerResultsLog: Compiling game modules for hot reload
+[2017.12.02-00.43.31:924][ 38]CompilerResultsLog: Parsing headers for GunSmokeFPEditor
+[2017.12.02-00.43.31:924][ 38]CompilerResultsLog:   Running UnrealHeaderTool "D:\GunSmoke-curlingEffect_LevanS\GunSmoke-curlingEffect_LevanS\GunSmokeFP\GunSmokeFP.uproject" "D:\GunSmoke-curlingEffect_LevanS\GunSmoke-curlingEffect_LevanS\GunSmokeFP\Intermediate\Build\Win64\GunSmokeFPEditor\Development\GunSmokeFPEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2017.12.02-00.43.31:924][ 38]CompilerResultsLog: Reflection code generated for GunSmokeFPEditor in 8.826656 seconds
+[2017.12.02-00.43.31:924][ 38]CompilerResultsLog: Performing 5 actions (4 in parallel)
+[2017.12.02-00.43.31:924][ 38]CompilerResultsLog: SetCurlEffect.gen.cpp
+[2017.12.02-00.43.31:924][ 38]CompilerResultsLog: GunSmokeFP.init.gen.cpp
+[2017.12.02-00.43.31:924][ 38]CompilerResultsLog: SetCurlEffect.cpp
+[2017.12.02-00.43.31:924][ 38]CompilerResultsLog: [4/5] Link UE4Editor-GunSmokeFP-4139.dll
+[2017.12.02-00.43.31:924][ 38]CompilerResultsLog: [5/5] Link UE4Editor-GunSmokeFP-4139.lib
+[2017.12.02-00.43.31:924][ 38]CompilerResultsLog:    Creating library D:\GunSmoke-curlingEffect_LevanS\GunSmoke-curlingEffect_LevanS\GunSmokeFP\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-GunSmokeFP-4139.lib and object D:\GunSmoke-curlingEffect_LevanS\GunSmoke-curlingEffect_LevanS\GunSmokeFP\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-GunSmokeFP-4139.exp
+[2017.12.02-00.43.31:924][ 38]CompilerResultsLog:    Creating library D:\GunSmoke-curlingEffect_LevanS\GunSmoke-curlingEffect_LevanS\GunSmokeFP\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-GunSmokeFP-4139.suppressed.lib and object D:\GunSmoke-curlingEffect_LevanS\GunSmoke-curlingEffect_LevanS\GunSmokeFP\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-GunSmokeFP-4139.suppressed.exp
+[2017.12.02-00.43.31:924][ 38]CompilerResultsLog: Total build time: 13.80 seconds (Local executor: 4.13 seconds)
+[2017.12.02-00.43.31:924][ 38]LogMainFrame: MainFrame: Module compiling took 14.282 seconds
+[2017.12.02-00.43.32:538][ 38]LogClass: Could not find existing class SetCurlEffect in package /Script/GunSmokeFP for HotReload, assuming new class
+[2017.12.02-00.43.32:538][ 38]LogClass: Function calculateDivergence is new.
+[2017.12.02-00.43.32:538][ 38]LogClass: Function CurlSetUP is new.
+[2017.12.02-00.43.32:538][ 38]LogClass: Function SetCurlEffectFunction is new.
+[2017.12.02-00.43.32:538][ 38]LogClass: Function setSimParams is new.
+[2017.12.02-00.43.32:559][ 38]LogHotReload: Re-instancing SetCurlEffect after hot-reload.
+[2017.12.02-00.43.32:756][ 38]LogContentBrowser: Native class hierarchy updated for 'GunSmokeFP' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2017.12.02-00.43.32:761][ 38]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2017.12.02-00.43.33:024][ 38]LogContentBrowser: Native class hierarchy populated in 0.0088 seconds. Added 2366 classes and 525 folders.
+[2017.12.02-00.43.33:024][ 38]Display: HotReload took 15.4s.
+[2017.12.02-00.51.04:205][562]BlueprintLog: New page: Compile BP_FluidSimulation_01
+[2017.12.02-00.51.05:592][562]BlueprintLog: New page: Compile BP_FluidSimulation_01
+[2017.12.02-00.51.19:708][278]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.02-00.51.19:754][278]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel.GunSmoke' with GeneratedClass '/Game/Maps/GunSmoke.GunSmoke_C' with ClassGeneratedBy '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel.GunSmoke'
+[2017.12.02-00.51.19:754][278]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.02-00.51.19:754][278]PIE: New page: PIE session: GunSmoke (Dec 1, 2017, 2:51:19 PM)
+[2017.12.02-00.51.19:754][278]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GunSmoke
+[2017.12.02-00.51.19:867][278]LogPlayLevel: PIE: StaticDuplicateObject took: (0.112331s)
+[2017.12.02-00.51.19:900][278]LogAIModule: Creating AISystem for world GunSmoke
+[2017.12.02-00.51.19:900][278]LogPlayLevel: PIE: World Init took: (0.033093s)
+[2017.12.02-00.51.19:901][278]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GunSmoke.GunSmoke to /Game/Maps/UEDPIE_0_GunSmoke.GunSmoke (0.146000s)
+[2017.12.02-00.51.19:925][278]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.02-00.51.19:960][278]LogInit: FAudioDevice initialized.
+[2017.12.02-00.51.20:005][278]LogLoad: Game class is 'GameModeBase'
+[2017.12.02-00.51.20:026][278]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GunSmoke.GunSmoke up for play (max tick rate 60) at 2017.12.01-19.51.20
+[2017.12.02-00.51.20:027][278]LogWorld: Bringing up level for play took: 0.019647
+[2017.12.02-00.51.20:042][278]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_GunSmoke 0.821
+[2017.12.02-00.51.20:043][278]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel.GunSmoke' with GeneratedClass '/Game/Maps/GunSmoke.GunSmoke_C' with ClassGeneratedBy '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel.GunSmoke'
+[2017.12.02-00.51.38:045][458]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel.GunSmoke' with GeneratedClass '/Game/Maps/GunSmoke.GunSmoke_C' with ClassGeneratedBy '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel.GunSmoke'
+[2017.12.02-00.51.38:187][458]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel.GunSmoke' with GeneratedClass '/Game/Maps/GunSmoke.GunSmoke_C' with ClassGeneratedBy '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel.GunSmoke'
+[2017.12.02-00.52.00:159][632]LogSlate: Took 0.075098 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2017.12.02-00.52.09:038][151]Cmd: stat scenerendering
+[2017.12.02-00.52.15:532][531]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.02-00.52.15:542][531]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel.GunSmoke' with GeneratedClass '/Game/Maps/GunSmoke.GunSmoke_C' with ClassGeneratedBy '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel.GunSmoke'
+[2017.12.02-00.52.15:542][531]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.02-00.52.15:542][531]PIE: New page: PIE session: GunSmoke (Dec 1, 2017, 2:52:15 PM)
+[2017.12.02-00.52.15:543][531]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GunSmoke
+[2017.12.02-00.52.15:549][531]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006067s)
+[2017.12.02-00.52.15:550][531]LogAIModule: Creating AISystem for world GunSmoke
+[2017.12.02-00.52.15:551][531]LogPlayLevel: PIE: World Init took: (0.001772s)
+[2017.12.02-00.52.15:551][531]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GunSmoke.GunSmoke to /Game/Maps/UEDPIE_0_GunSmoke.GunSmoke (0.008227s)
+[2017.12.02-00.52.15:575][531]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.02-00.52.15:601][531]LogInit: FAudioDevice initialized.
+[2017.12.02-00.52.15:628][531]LogLoad: Game class is 'GameModeBase'
+[2017.12.02-00.52.15:630][531]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GunSmoke.GunSmoke up for play (max tick rate 60) at 2017.12.01-19.52.15
+[2017.12.02-00.52.15:631][531]LogWorld: Bringing up level for play took: 0.001579
+[2017.12.02-00.52.15:634][531]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_GunSmoke 0.413
+[2017.12.02-00.52.15:634][531]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel.GunSmoke' with GeneratedClass '/Game/Maps/GunSmoke.GunSmoke_C' with ClassGeneratedBy '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel.GunSmoke'
+[2017.12.02-00.52.42:927][820]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel.GunSmoke' with GeneratedClass '/Game/Maps/GunSmoke.GunSmoke_C' with ClassGeneratedBy '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel.GunSmoke'
+[2017.12.02-00.52.43:065][820]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel.GunSmoke' with GeneratedClass '/Game/Maps/GunSmoke.GunSmoke_C' with ClassGeneratedBy '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel.GunSmoke'
+[2017.12.02-00.52.52:220][361]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.12.02-00.52.54:788][512]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.12.02-00.52.55:012][524]Cmd: SELECT NONE
+[2017.12.02-00.53.02:723][953]LogEditorTransaction: Undo Select None
+[2017.12.02-00.53.04:245][ 19]LogEditorTransaction: Undo Clicking on Actors
+[2017.12.02-00.53.05:594][ 92]LogEditorTransaction: Undo Clicking on Actors
+[2017.12.02-00.53.06:822][164]LogEditorTransaction: Undo Break Pin Link
+[2017.12.02-00.53.08:189][232]LogEditorTransaction: Undo Create Pin Link
+[2017.12.02-00.53.09:039][270]LogEditorTransaction: Undo Create Pin Link
+[2017.12.02-00.53.12:980][476]BlueprintLog: New page: Compile BP_FluidSimulation_01
+[2017.12.02-00.53.13:971][476]BlueprintLog: New page: Compile BP_FluidSimulation_01
+[2017.12.02-00.53.16:595][479]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.12.02-00.53.35:600][246]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.02-00.53.35:773][246]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel.GunSmoke' with GeneratedClass '/Game/Maps/GunSmoke.GunSmoke_C' with ClassGeneratedBy '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel.GunSmoke'
+[2017.12.02-00.53.35:809][246]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.02-00.53.35:809][246]PIE: New page: PIE session: GunSmoke (Dec 1, 2017, 2:53:35 PM)
+[2017.12.02-00.53.35:809][246]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GunSmoke
+[2017.12.02-00.53.35:856][246]LogPlayLevel: PIE: StaticDuplicateObject took: (0.045539s)
+[2017.12.02-00.53.35:893][246]LogAIModule: Creating AISystem for world GunSmoke
+[2017.12.02-00.53.35:894][246]LogPlayLevel: PIE: World Init took: (0.039006s)
+[2017.12.02-00.53.35:895][246]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GunSmoke.GunSmoke to /Game/Maps/UEDPIE_0_GunSmoke.GunSmoke (0.085045s)
+[2017.12.02-00.53.35:968][246]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.02-00.53.36:057][246]LogInit: FAudioDevice initialized.
+[2017.12.02-00.53.36:092][246]LogLoad: Game class is 'GameModeBase'
+[2017.12.02-00.53.36:095][246]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GunSmoke.GunSmoke up for play (max tick rate 60) at 2017.12.01-19.53.36
+[2017.12.02-00.53.36:095][246]LogWorld: Bringing up level for play took: 0.001954
+[2017.12.02-00.53.36:101][246]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_GunSmoke 0.88
+[2017.12.02-00.53.36:102][246]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel.GunSmoke' with GeneratedClass '/Game/Maps/GunSmoke.GunSmoke_C' with ClassGeneratedBy '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel.GunSmoke'
+[2017.12.02-00.53.48:575][366]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel.GunSmoke' with GeneratedClass '/Game/Maps/GunSmoke.GunSmoke_C' with ClassGeneratedBy '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel.GunSmoke'
+[2017.12.02-00.53.48:757][366]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel.GunSmoke' with GeneratedClass '/Game/Maps/GunSmoke.GunSmoke_C' with ClassGeneratedBy '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel.GunSmoke'
+[2017.12.02-00.53.53:628][645]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.12.02-00.53.55:522][734]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.02-00.53.55:560][734]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel.GunSmoke' with GeneratedClass '/Game/Maps/GunSmoke.GunSmoke_C' with ClassGeneratedBy '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel.GunSmoke'
+[2017.12.02-00.53.55:561][734]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.02-00.53.55:561][734]PIE: New page: PIE session: GunSmoke (Dec 1, 2017, 2:53:55 PM)
+[2017.12.02-00.53.55:561][734]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GunSmoke
+[2017.12.02-00.53.55:566][734]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005376s)
+[2017.12.02-00.53.55:567][734]LogAIModule: Creating AISystem for world GunSmoke
+[2017.12.02-00.53.55:567][734]LogPlayLevel: PIE: World Init took: (0.000900s)
+[2017.12.02-00.53.55:568][734]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GunSmoke.GunSmoke to /Game/Maps/UEDPIE_0_GunSmoke.GunSmoke (0.006595s)
+[2017.12.02-00.53.55:590][734]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.02-00.53.55:617][734]LogInit: FAudioDevice initialized.
+[2017.12.02-00.53.55:650][734]LogLoad: Game class is 'GameModeBase'
+[2017.12.02-00.53.55:652][734]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GunSmoke.GunSmoke up for play (max tick rate 60) at 2017.12.01-19.53.55
+[2017.12.02-00.53.55:652][734]LogWorld: Bringing up level for play took: 0.001337
+[2017.12.02-00.53.55:655][734]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_GunSmoke 0.433
+[2017.12.02-00.53.55:655][734]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel.GunSmoke' with GeneratedClass '/Game/Maps/GunSmoke.GunSmoke_C' with ClassGeneratedBy '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel.GunSmoke'
+[2017.12.02-00.54.17:651][956]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel.GunSmoke' with GeneratedClass '/Game/Maps/GunSmoke.GunSmoke_C' with ClassGeneratedBy '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel.GunSmoke'
+[2017.12.02-00.54.17:786][956]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel.GunSmoke' with GeneratedClass '/Game/Maps/GunSmoke.GunSmoke_C' with ClassGeneratedBy '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel.GunSmoke'
+[2017.12.02-00.54.42:840][378]LogEditorTransaction: Undo Move Node
+[2017.12.02-00.54.44:110][429]LogEditorTransaction: Redo Move Node
+[2017.12.02-00.55.20:011][452]BlueprintLog: New page: Compile BP_FluidSimulation_01
+[2017.12.02-00.55.21:907][455]BlueprintLog: New page: Compile BP_FluidSimulation_01
+[2017.12.02-00.55.23:590][458]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.12.02-00.55.24:097][459]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.12.02-00.55.25:823][460]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.12.02-00.55.55:138][217]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.02-00.55.56:377][217]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel.GunSmoke' with GeneratedClass '/Game/Maps/GunSmoke.GunSmoke_C' with ClassGeneratedBy '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel.GunSmoke'
+[2017.12.02-00.55.56:422][217]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.02-00.55.56:558][217]PIE: New page: PIE session: GunSmoke (Dec 1, 2017, 2:55:56 PM)
+[2017.12.02-00.55.56:603][217]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GunSmoke
+[2017.12.02-00.55.57:572][217]LogPlayLevel: PIE: StaticDuplicateObject took: (0.949493s)
+[2017.12.02-00.55.57:987][217]LogAIModule: Creating AISystem for world GunSmoke
+[2017.12.02-00.55.58:072][217]LogPlayLevel: PIE: World Init took: (0.499923s)
+[2017.12.02-00.55.58:087][217]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GunSmoke.GunSmoke to /Game/Maps/UEDPIE_0_GunSmoke.GunSmoke (1.492917s)
+[2017.12.02-00.55.58:586][217]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.02-00.55.58:716][217]LogInit: FAudioDevice initialized.
+[2017.12.02-00.55.58:912][217]LogLoad: Game class is 'GameModeBase'
+[2017.12.02-00.55.59:082][217]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GunSmoke.GunSmoke up for play (max tick rate 60) at 2017.12.01-19.55.59
+[2017.12.02-00.55.59:092][217]LogWorld: Bringing up level for play took: 0.135716
+[2017.12.02-00.55.59:364][217]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_GunSmoke 4.136
+[2017.12.02-00.55.59:481][217]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel.GunSmoke' with GeneratedClass '/Game/Maps/GunSmoke.GunSmoke_C' with ClassGeneratedBy '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel.GunSmoke'
+[2017.12.02-00.56.01:958][238]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel.GunSmoke' with GeneratedClass '/Game/Maps/GunSmoke.GunSmoke_C' with ClassGeneratedBy '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel.GunSmoke'
+[2017.12.02-00.56.02:260][238]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel.GunSmoke' with GeneratedClass '/Game/Maps/GunSmoke.GunSmoke_C' with ClassGeneratedBy '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel.GunSmoke'
+[2017.12.02-00.56.05:174][359]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.12.02-00.56.06:212][360]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.02-00.56.06:271][360]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel.GunSmoke' with GeneratedClass '/Game/Maps/GunSmoke.GunSmoke_C' with ClassGeneratedBy '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel.GunSmoke'
+[2017.12.02-00.56.06:271][360]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.02-00.56.06:271][360]PIE: New page: PIE session: GunSmoke (Dec 1, 2017, 2:56:06 PM)
+[2017.12.02-00.56.06:272][360]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GunSmoke
+[2017.12.02-00.56.06:280][360]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008029s)
+[2017.12.02-00.56.06:281][360]LogAIModule: Creating AISystem for world GunSmoke
+[2017.12.02-00.56.06:281][360]LogPlayLevel: PIE: World Init took: (0.000698s)
+[2017.12.02-00.56.06:282][360]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GunSmoke.GunSmoke to /Game/Maps/UEDPIE_0_GunSmoke.GunSmoke (0.010137s)
+[2017.12.02-00.56.06:327][360]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.02-00.56.06:353][360]LogInit: FAudioDevice initialized.
+[2017.12.02-00.56.06:388][360]LogLoad: Game class is 'GameModeBase'
+[2017.12.02-00.56.06:391][360]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GunSmoke.GunSmoke up for play (max tick rate 60) at 2017.12.01-19.56.06
+[2017.12.02-00.56.06:391][360]LogWorld: Bringing up level for play took: 0.001456
+[2017.12.02-00.56.06:394][360]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_GunSmoke -0.828
+[2017.12.02-00.56.06:394][360]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel.GunSmoke' with GeneratedClass '/Game/Maps/GunSmoke.GunSmoke_C' with ClassGeneratedBy '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel.GunSmoke'
+[2017.12.02-00.56.56:080][912]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel.GunSmoke' with GeneratedClass '/Game/Maps/GunSmoke.GunSmoke_C' with ClassGeneratedBy '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel.GunSmoke'
+[2017.12.02-00.56.56:195][912]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel.GunSmoke' with GeneratedClass '/Game/Maps/GunSmoke.GunSmoke_C' with ClassGeneratedBy '/Game/Maps/GunSmoke.GunSmoke:PersistentLevel.GunSmoke'
+[2017.12.02-00.58.43:943][117]BlueprintLog: New page: Compile BP_FluidSimulation_01
+[2017.12.02-01.00.01:352][245]LogSavePackage: Save=399.89ms
+[2017.12.02-01.00.01:352][245]LogSavePackage: Moving '../../../../../../GunSmoke-curlingEffect_LevanS/GunSmoke-curlingEffect_LevanS/GunSmokeFP/Saved/GunSmoke_Auto3D279134C449E01BEA5912BB081C5A7C7.tmp' to '../../../../../../GunSmoke-curlingEffect_LevanS/GunSmoke-curlingEffect_LevanS/GunSmokeFP/Saved/Autosaves/Game/Maps/GunSmoke_Auto3.umap'
+[2017.12.02-01.00.01:395][245]LogSavePackage: Display: Finished SavePackage ../../../../../../GunSmoke-curlingEffect_LevanS/GunSmoke-curlingEffect_LevanS/GunSmokeFP/Saved/Autosaves/Game/Maps/GunSmoke_Auto3.umap
+[2017.12.02-01.00.01:422][245]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/GunSmoke' took 0.915
+[2017.12.02-01.00.01:422][245]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.915
+[2017.12.02-01.00.01:469][245]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/ShaderBits-GDC-Pack/FluidSimulation/Blueprints/BP_FluidSimulation_01] ([1] browsable assets)...
+[2017.12.02-01.00.01:638][245]OBJ SavePackage:     Rendered thumbnail for [Blueprint /ShaderBits-GDC-Pack/FluidSimulation/Blueprints/BP_FluidSimulation_01.BP_FluidSimulation_01]
+[2017.12.02-01.00.01:638][245]OBJ SavePackage: Finished generating thumbnails for package [/ShaderBits-GDC-Pack/FluidSimulation/Blueprints/BP_FluidSimulation_01]
+[2017.12.02-01.00.02:429][245]LogSavePackage: Save=709.23ms
+[2017.12.02-01.00.02:429][245]LogSavePackage: Moving '../../../../../../GunSmoke-curlingEffect_LevanS/GunSmoke-curlingEffect_LevanS/GunSmokeFP/Saved/BP_FluidSimulation_01_Auto361F15500414C1081F7CB2EBC3C833905.tmp' to '../../../../../../GunSmoke-curlingEffect_LevanS/GunSmoke-curlingEffect_LevanS/GunSmokeFP/Saved/Autosaves/ShaderBits-GDC-Pack/FluidSimulation/Blueprints/BP_FluidSimulation_01_Auto3.uasset'
+[2017.12.02-01.00.02:472][245]LogSavePackage: Display: Finished SavePackage ../../../../../../GunSmoke-curlingEffect_LevanS/GunSmoke-curlingEffect_LevanS/GunSmokeFP/Saved/Autosaves/ShaderBits-GDC-Pack/FluidSimulation/Blueprints/BP_FluidSimulation_01_Auto3.uasset
+[2017.12.02-01.00.02:472][245]LogFileHelpers: Auto-saving content packages took 1.047
