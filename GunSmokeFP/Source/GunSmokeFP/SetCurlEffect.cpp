@@ -35,7 +35,7 @@ void USetCurlEffect::TickComponent(float DeltaTime, ELevelTick TickType, FActorC
 	// ...
 }
 
-
+// Author: Levan Sulimanov
 void USetCurlEffect::CurlSetUP(UMaterialInstanceDynamic *Velocity_SeedMID, 
 							   UMaterialInstanceDynamic *Color_SeedMID,        
 							   FName Temp, 
@@ -80,8 +80,43 @@ Velocity_Color_SeedMID->SetScalarParameterValue(HeatInset, HeatInsetValue);
 
 */
 
+// Author: Levan Sulimanov
+void USetCurlEffect::BindRendGFG(UMaterialInstanceDynamic *VelocitySeedMID,
+	UMaterialInstanceDynamic *VolumePreviewMID,
+	UMaterialInstanceDynamic *VelocityPreviewMID,
+	UMaterialInstanceDynamic *ColorPreviewMID,
+	UMaterialInstanceDynamic *RaymarchVelocityMID,
+	UTextureRenderTarget2D *ColorText,
+	UTextureRenderTarget2D *VelocityText,
+	UTextureRenderTarget2D *PressureText)
+{
+
+	VelocitySeedMID->SetTextureParameterValue(FName("Color"), ColorText);
+
+	VolumePreviewMID->SetTextureParameterValue(FName("RT"), ColorText);
+
+	VelocityPreviewMID->SetTextureParameterValue(FName("RT"), VelocityText);
+
+	ColorPreviewMID->SetTextureParameterValue(FName("RT"), VelocityText);
+
+	ColorPreviewMID->SetTextureParameterValue(FName("RT2"), ColorText);
+
+	VolumePreviewMID->SetTextureParameterValue(FName("RT"), ColorText);
+
+	VolumePreviewMID->SetTextureParameterValue(FName("RT_Velocity"), VelocityText);
+
+	VolumePreviewMID->SetTextureParameterValue(FName("Pressure"), PressureText);
+
+	VelocityPreviewMID->SetTextureParameterValue(FName("Pressure"), PressureText);
+
+	RaymarchVelocityMID->SetTextureParameterValue(FName("Color"), ColorText);
+
+	RaymarchVelocityMID->SetTextureParameterValue(FName("Velocity"), VelocityText);
+
+}
 
 
+// Author: Levan Sulimanov
 void USetCurlEffect::SetCurlEffectFunction(UMaterialInstanceDynamic *VelocitySeedMID, FName CurlTiling,
 																					  FName CurlStrength,
 																					  float CurlTilingValue,
@@ -102,6 +137,8 @@ void USetCurlEffect::SetCurlEffectFunction(UMaterialInstanceDynamic *VelocitySee
 
 }
 
+
+//Author: Ryan Coleman
 void USetCurlEffect::setSimParams(UMaterialInstanceDynamic *advectMID, UMaterialInstanceDynamic *divMID,
 										UMaterialInstanceDynamic *pressIterMID, UMaterialInstanceDynamic *gradSubMID,
 										UMaterialInstanceDynamic *colorPrevMID, UMaterialInstanceDynamic *rayMarchVelMID,
@@ -182,7 +219,7 @@ void USetCurlEffect::setSimParams(UMaterialInstanceDynamic *advectMID, UMaterial
 	advectMID->SetScalarParameterValue(pName, constCurlStrength);
 }
 
-
+//Author: Ryan Coleman 
 void USetCurlEffect::calculateDivergence(UTextureRenderTarget2D *sourceTexture, 
 										UTextureRenderTarget2D *destinationTexture, 
 										UMaterialInstanceDynamic *divergenceMID)
